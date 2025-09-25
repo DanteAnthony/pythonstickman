@@ -4,8 +4,8 @@ import turtle as trtl
 mytrtl = trtl.Turtle()
 
 # set up stickman
-print("Make a Stckman")
-thicc = int(input("How thick shold the outline be? "))
+print("Make a Stickman")
+thicc = int(input("How thick should the outline be? "))
 print("The thickness is now", thicc,)
 color = input("What should the main color be? ")
 print("The color is now", color,)
